@@ -137,7 +137,7 @@ public class Person {
     //MAIN
    
     public static void main(String[] args) {
-        Person p1 = new Person((short)2006, "Javier Caleb Ochoa Albarran", "Dorles");
+        Person p1 = new Person((short)2006, "Javier Caleb Castillo Torres", "Dorles");
         p1.show();
         System.out.println(p1.isBroken());
         Person p2 = new Person(p1);
@@ -145,7 +145,7 @@ public class Person {
         Person p3 = new Person("José","Fernando");
         p3.show();
         
-        System.out.println(p3.changeName("CAROLINA CARRERA","CARRERA"));
+        System.out.println(p3.changeName("CAROLINA Suarez","CARRERA"));
         
      
 
