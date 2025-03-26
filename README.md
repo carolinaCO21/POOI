@@ -18,7 +18,7 @@ Cada clase implementa funcionalidades prácticas que permiten explorar conceptos
 
 ![Texto alternativo](https://www.manualweb.net/img/logos/java.png)
 
-##Enlaces complementarios
+## Enlaces complementarios
 [Conceptos de programación orientada a objetos en Java](https://codegym.cc/es/groups/posts/es.76.conceptos-de-programacion-orientada-a-objetos-en-java)
 
 
