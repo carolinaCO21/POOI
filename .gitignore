@@ -1,0 +1,14 @@
+*.log
+*.tmp
+*.bak
+*.swp
+*.class
+*.jar
+.settings/
+.project
+.metadata/
+.bin/
+.target/
+load/
+.*.swp
+
